@@ -6,7 +6,7 @@
 🎭 **Fun Fact:** I have a 100% success rate in finding the perfect meme for any situation.
 
 # 🛠️ Open Source Contributions:
-I contribute to high-performance data engineering tools. Key contributions to [**parquet-dotnet**](https://github.com/aloneguid/parquet-dotnet) include:
+I contribute to high-performance data engineering tools, primarily through my professional account [**@ee-naveen**](https://github.com/ee-naveen). Key contributions to [**parquet-dotnet**](https://github.com/aloneguid/parquet-dotnet) include:
 
 * **[PR #655](https://github.com/aloneguid/parquet-dotnet/pull/655):** Add support for additional integer types in encoder
 * **[PR #387](https://github.com/aloneguid/parquet-dotnet/pull/387):** Ensuring delta encoding footer blocks are complete And Handle Overflow
